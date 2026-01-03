@@ -1,0 +1,25 @@
+{
+    "enabled": true,
+    "theme": "floating",
+    "position": "bottom",
+    "height": 48,
+    "iconSize": 24,
+    "spacing": 4,
+    "margin": 4,
+    "hoverRegionHeight": 16,
+    "pinnedOnStartup": false,
+    "hoverToReveal": true,
+    "showRunningIndicators": true,
+    "showPinButton": true,
+    "showOverviewButton": true,
+    "pinnedApps": [
+        "app.zen_browser.zen",
+        "kitty",
+        "com.stremio.Stremio"
+    ],
+    "ignoredAppRegexes": [
+        "quickshell.*",
+        "xdg-desktop-portal.*"
+    ],
+    "screenList": []
+}
